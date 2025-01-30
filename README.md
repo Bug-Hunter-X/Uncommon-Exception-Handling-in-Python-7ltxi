@@ -1,0 +1,1 @@
+This repository demonstrates a common Python coding error involving exception handling. The initial code uses a broad 'except Exception' block, which can mask other errors and hinder debugging. The solution refines exception handling to address specific scenarios.
